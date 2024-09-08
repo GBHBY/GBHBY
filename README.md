@@ -7,5 +7,6 @@
 ### Hi there 👋
 
 > Hi, I'm GBHBY.
+> 我是从事 java 相关的工程师，目前正在学习 LLM 相关以及 VUE 相关
 
-🇨🇳 &nbsp;China BeiJing  &nbsp;&nbsp;&nbsp; 🌱 &nbsp;Unknow
+🇨🇳 &nbsp;China  &nbsp;&nbsp;&nbsp;
