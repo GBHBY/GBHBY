@@ -7,6 +7,6 @@
 ### Hi there 👋
 
 > Hi, I'm GBHBY.
-> 我是从事 java 相关
+> 我目前从事 java 相关，
 
 🇨🇳 &nbsp;China  &nbsp;&nbsp;&nbsp;
